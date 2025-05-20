@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.csv
+*.zip
+*.jpg
+/training_data
+/caxton_dataset
